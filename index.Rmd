@@ -1,5 +1,7 @@
 ---
 title: "Emily K. Power"
+author: Middlebury College 
+date: Candidate for Bachelor of Arts, Conservation Biology Major and Psychology Minor
 output: 
     prettydoc::html_pretty:
         theme: cayman
